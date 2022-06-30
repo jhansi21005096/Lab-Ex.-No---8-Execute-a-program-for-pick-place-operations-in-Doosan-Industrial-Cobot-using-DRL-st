@@ -52,9 +52,9 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 ## output : 
 ![output](Ex.8.1.kin.PNG)
-![output](Ex.8.2.kin.PNG)
-![output](Ex.8.3.kin.PNG)
-![output](Ex.8.4.kin.PNG)
+![output](ex.8.2.kin.PNG)
+![output](ex.8.3.kin.PNG)
+![output](ex.8.4.kin.PNG)
 ## Results: 
 A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
