@@ -1,8 +1,9 @@
 # Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
-## Aim :
+## Aim 
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
+## Components Required
+Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
 
 
 ## Theory 
@@ -18,19 +19,23 @@ Simple pick and place robots that lift items and place them at other locations h
 What are the different parts of a pick and place robot?
 A pick and place robot has several dedicated parts, such as:
 
-Robot Arm tool: A robotic arm, also known as a manipulator, is the extension of the robot by using cylindrical or spherical parts. links, and joints.
+### Robot Arm tool: 
+A robotic arm, also known as a manipulator, is the extension of the robot by using cylindrical or spherical parts. links, and joints.
 
-End Effector: The end effector is the accessory at the end of the robotic arm, that does the required job such as gripping objects. The end effectors can be designed to perform different functionalities based on requirements.
+### End Effector: 
+The end effector is the accessory at the end of the robotic arm, that does the required job such as gripping objects. The end effectors can be designed to perform different functionalities based on requirements.
 
-Actuators: Actuators create the motion in the robotic arm and end effectors. The linear actuators are basically any type of motor, such as servo motor, stepper motor, or hydraulic cylinder.
+### Actuators:
+ Actuators create the motion in the robotic arm and end effectors. The linear actuators are basically any type of motor, such as servo motor, stepper motor, or hydraulic cylinder.
 
-Sensors: You can think of sensors as the eyes of the robots. The sensors do the tasks like identifying the position of the object.
+### Sensors: 
+You can think of sensors as the eyes of the robots. The sensors do the tasks like identifying the position of the object.
 
 Controllers: Controllers synchronize and control the movement of different actuators of a robot, thereby being the brain behind the smooth robotic operation.
 
 
 
-Procedure:
+## Procedure
 
 
 1) Place the given object on table (Workspace).
@@ -40,16 +45,18 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+// Roll no:212221230045
 
-//Name:
-MoveJ ................
+//Name:K.Jhansi
+.
 
 ## output : 
-
-
+![output](Ex.8.1.kin.PNG)
+![output](Ex.8.2.kin.PNG)
+![output](Ex.8.3.kin.PNG)
+![output](Ex.8.4.kin.PNG)
 ## Results: 
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
